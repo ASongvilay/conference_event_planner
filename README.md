@@ -1,1 +1,2 @@
-e-plantShopping
+e-plantShopping project
+website to purchase plants
